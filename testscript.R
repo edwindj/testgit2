@@ -3,7 +3,7 @@ print("Hello!")
 x <- 1 + 1
 
 print(x)
-# bla, bla, bla
+# snurk, snurk, snurk
 
 # zinloze commentaar regel
 # 
